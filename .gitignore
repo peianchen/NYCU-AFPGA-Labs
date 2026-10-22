@@ -1,0 +1,120 @@
+# Quartus generated databases
+**/db/
+**/incremental_db/
+**/simulation/
+**/output_files/
+**/greybox_tmp/
+**/.qsys_edit/
+**/hc_output/
+**/stamp/
+**/hps_isw_handoff/
+**/soc_system/synthesis/
+
+# Local Quartus/ModelSim installers (several files exceed GitHub's limit)
+set/
+*.qdz
+*.exe
+
+# Quartus reports and generated outputs
+*.qws
+*.qdf
+*.qmsg
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.sof
+*.pof
+*.jic
+*.cdf
+*.sdo
+*.vcd
+*.html
+
+# Quartus internal database fragments
+*.cdb
+*.ddb
+*.hdb
+*.rdb
+*.kpt
+*.tdb
+*.hif
+*.hsd
+*.idb
+*.dfp
+*.jdi
+*.done
+*.bpm
+*.sci
+*.sig
+*.hb_info
+*.hier_info
+*.db_info
+*.rcfdb
+*.nvd
+*.ammdb
+*.tmw_info
+*.dpi
+*.ipinfo
+*.name_drv_tbl
+*.names_drv_tbl
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+*.orig
+*.autosave
+*.o
+
+# Locally built HPS executable
+**/my_first_hps-fpga_sw/my_first_hps-fpga
+
+# Scratch, duplicate, and unrelated course material
+新增資料夾 (3)/
+懶人包/
+LAB__/
+LAB_3_5/
+exp6_6/
+registered/
+ripple_carry_adder/
+test/
+test_1/
+testtest/
+Verilog/
+
+# Final project material is outside the Lab 1-8 collection
+D5M.drawio
+FPGA.png
+
+# Third-party manuals and assignment handouts
+200832211_Jan2018.pdf
+3-s2.0-B978075064582950007X-f06-20-9780750645829.gif
+part1.pdf
+qvn1de1.pdf
+THDB-D5M_Hardware specification.pdf
+TRDB_D5M_UserGuide.pdf
+實驗1.docx
+實驗2.docx
+
+# Loose duplicates and notes outside the organized Lab collection
+新增 文字文件.txt
+assignments.txt
+螢幕擷取畫面 *.jpg
+DE1_SoC_pin_assignments.csv.xlsx
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+
+# Curated standalone repository generated from this workspace
+NYCU-AFPGA-Labs/
+
+# Original reports and private release backups never belong in this repository.
+reports/
+*.doc
+*.docx
+*.pdf
+*.bundle
+*.zip
+.planning/

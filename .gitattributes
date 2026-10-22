@@ -1,0 +1,20 @@
+* text=auto
+
+*.v text eol=lf
+*.sv text eol=lf
+*.vhd text eol=lf
+*.qpf text eol=lf
+*.qsf text eol=lf
+*.qip text eol=lf
+*.qsys text eol=lf
+*.sdc text eol=lf
+*.mif text eol=lf
+*.md text eol=lf
+
+*.pdf binary
+*.docx binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.xlsx binary
